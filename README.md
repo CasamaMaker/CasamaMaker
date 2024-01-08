@@ -1,25 +1,14 @@
-
+![alt text](https://github.com/CasamaMaker/CasamaMaker/blob/main/2.png)
 # ⚡ About Me
-Hello, my name is Martí Casamayor, and I'm an electronics enthusiast. I love developing products from start to finish, ranging from schematic design to 3D printing the housing, including making the electronic prototype, programming, and testing.
+Hello, my name is [Martí Casamayor](https://www.instagram.com/casamamaker), and I'm an electronics enthusiast. I love developing products from scratch to finish, ranging from schematic design to 3D printing the housing, including making the electronic prototype, programming, and testing.
 
+**#Arduino #RaspberryPi #ESP32 #PCBdesign #3Ddesign #3Dpriting #ReflowSolder #EletronicTesting #C #MicroPython #CNCmachining**
 
 ## 🧪 My Projects
 - [eLoad](https://github.com/CasamaMaker/eLoad): Electronic Load of 60W, easy-to-use and safe
-- CamperBatterySystem: [in development] All-in-one system to manage the secondary battery for a CamperVan. With web monitoring.
+- [CamperBatterySystem](https://github.com/CasamaMaker/CamperBatterySystem): [in development] All-in-one system to manage the secondary battery for a CamperVan. With web monitoring.
+- [myCNC](https://github.com/CasamaMaker/myCNC): A 3D printed low cost diy cnc for dremel
 
 
-📫 You can reach me: [Instagram](https://www.instagram.com/casamamaker) or [Youtube](https://www.youtube.com/@casamamaker)
 <!--
-**CasamaMaker/CasamaMaker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 You can reach me: [Instagram](https://www.instagram.com/casamamaker)  or [Youtube](https://www.youtube.com/@casamamaker)-->
