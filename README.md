@@ -1,5 +1,14 @@
-### Hi there 👋
 
+# ⚡ About Me
+Hello, my name is Martí Casamayor, and I'm an electronics enthusiast. I love developing products from start to finish, ranging from schematic design to 3D printing the housing, including making the electronic prototype, programming, and testing.
+
+
+## 🧪 My Projects
+- [eLoad](https://github.com/CasamaMaker/eLoad): Electronic Load of 60W, easy-to-use and safe
+- CamperBatterySystem: [in development] All-in-one system to manage the secondary battery for a CamperVan. With web monitoring.
+
+
+📫 You can reach me: [Instagram](https://www.instagram.com/casamamaker) or [Youtube](https://www.youtube.com/@casamamaker)
 <!--
 **CasamaMaker/CasamaMaker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
