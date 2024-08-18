@@ -11,6 +11,7 @@ Hello, my name is Martí Casamayor, and I'm an electronics enthusiast. I love de
 `Arduino` `RaspberryPi` `ESP32` `PCBdesign` `3Ddesign` `3Dpriting` `ReflowSolder` `EletronicTesting` `C` `MicroPython` `CNCmachining`
 
 ## 🧪 My Projects
+- [BlauLink](https://github.com/CasamaMaker/BlauLink): My IoT switch idea design
 - [eLoad](https://github.com/CasamaMaker/eLoad): Electronic Load of 60W, easy-to-use and safe
 - [CamperBatterySystem](https://github.com/CasamaMaker/CamperBatterySystem): [in development] All-in-one system to manage the secondary battery for a CamperVan. With web monitoring.
 - [myCNC](https://github.com/CasamaMaker/myCNC): A 3D printed low cost diy cnc for dremel
