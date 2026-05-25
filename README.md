@@ -12,7 +12,7 @@ Hello, my name is Martí Casamayor, and I'm an electronics enthusiast. I love de
 
 ## 🧪 My Projects
 - [myStock](https://github.com/CasamaMaker/myStock): Desktop app for stock control using Google Sheets as database
-- [BlauLink](https://github.com/CasamaMaker/BlauLink): My IoT switch idea design
+- [BlauClick](https://github.com/CasamaMaker/BlauClick): My IoT switch idea design
 - [BlauLux](https://github.com/CasamaMaker/BlauLux): My IoT light driver controller idea design
 - [eLoad](https://github.com/CasamaMaker/eLoad): Electronic Load of 60W, easy-to-use and safe
 - [CamperBatterySystem](https://github.com/CasamaMaker/CamperBatterySystem): [in development] All-in-one system to manage the secondary battery for a CamperVan. With web monitoring.
